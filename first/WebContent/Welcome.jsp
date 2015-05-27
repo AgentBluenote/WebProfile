@@ -6,5 +6,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>Welcome to my jsp page </body>
+<body>Welcome to my jsp page 
+
+<div style="background-color:orange;text-align:center; 
+border:dotted #999999;">
+<p>This is a devision part</p>
+</div>
+</body>
+
+
+
+
+
 </html>

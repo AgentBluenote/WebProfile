@@ -39,10 +39,8 @@ footer {
 </header>
 
 <nav>
-<p><a href="California.jsp">California</a> is a link to a page on this website.</p><br>
-London<br>
-Paris<br>
-Tokyo<br>
+<a href="California.jsp">Calfornia</a><br>
+<a href="UserLogin.jsp">UserLogin</a><br>
 </nav>
 
 <section>

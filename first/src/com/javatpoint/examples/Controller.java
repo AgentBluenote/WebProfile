@@ -1,7 +1,6 @@
 package com.javatpoint.examples;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -34,7 +33,8 @@ public class Controller extends HttpServlet {
 	
 		/*
 		response.setContentType("text/html");//setting the content type  
-		PrintWriter pw=response.getWriter();//get the stream to write the data  
+
+PrintWriter pw=response.getWriter();//get the stream to write the data  
 		  
 		*/
 	}

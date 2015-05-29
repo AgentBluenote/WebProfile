@@ -34,7 +34,7 @@ public class Controller extends HttpServlet {
 		/*
 		response.setContentType("text/html");//setting the content type  
 
-PrintWriter pw=response.getWriter();//get the stream to write the
+PrintWriter pw=response.getWriter();//get the stream to wri
 		  
 		*/
 	}
